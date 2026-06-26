@@ -42,10 +42,10 @@
       - "Built responsive UIs with JavaScript, HTML, CSS"
       - "Version-controlled with Git/GitHub"
 
-  - role: "Tech SEO 🔍"
-    company: "[Company]"
+  - role: "Tech Developer Intern 🔍"
+    company: "SEO Tech Developer"
     highlights:
-      - "[Description placeholder]"
+      - "Description is on the way..."
 ```
 
 <br>
